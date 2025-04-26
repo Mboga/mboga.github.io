@@ -1,0 +1,55 @@
+.header-container h1{
+    font-size: 2em;
+    margin-block: 0.67
+}
+/* Global Centering*/
+.content-wrapper{
+    max-width: 800px;
+    margin: 0 auto;
+    padding:20px
+}
+
+/*Bio Section*/
+.my-bio{
+    text-align: left;
+    margin:30px;
+}
+.my-bio p {
+    margin-bottom: 1em;
+    text-align: justify;
+}
+
+/*Publication List*/
+.publications-list{
+    margin: 40px;
+}
+
+.publication{
+    margin-bottom: 20px;
+    padding: 10px
+}
+
+.title{
+    font-weight: bold;
+    font-size: 1.1em;
+}
+.authors{
+    color: #555;
+    font-size: 1.1em;
+}
+.Journal{
+    font-style: italic;
+    font-size: 1.1em;
+}
+
+.publication:hover{
+    background: #f1f3f5;
+}
+
+/*Conference List*/
+.conference-list{
+    margin: 40px;
+}
+.conference{
+    margin-bottom: 15px;
+}
