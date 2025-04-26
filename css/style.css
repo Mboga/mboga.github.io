@@ -23,6 +23,13 @@
 .publications-list{
     margin: 40px;
 }
+.publications-list .title a {
+    color: #007acc;
+    text-decoration: none;
+}
+.publications-list .title a:hover{
+    text-decoration: underline;
+}
 
 .publication{
     margin-bottom: 20px;
@@ -31,7 +38,11 @@
 
 .title{
     font-weight: bold;
-    font-size: 1.1em;
+    font-size: 1.25em;
+    color: #3494c4;
+}
+.bold-author{
+    font-weight: bold;
 }
 .authors{
     color: #555;
