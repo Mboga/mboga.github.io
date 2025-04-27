@@ -1,2 +1,2 @@
 # nicholusmboga.github.io
-A repository showcasing my portfolio
+A repository showcasing my portfolio and interests
