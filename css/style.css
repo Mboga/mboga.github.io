@@ -6,7 +6,9 @@
 .content-wrapper{
     max-width: 800px;
     margin: 0 auto;
-    padding:20px
+    padding:20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
 }
 /* Container for bio and photo*/
 .bio-container{
